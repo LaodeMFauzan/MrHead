@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MrHead</string>
+    <string name="hair">Hair</string>
+    <string name="moustache">Moustache</string>
+    <string name="eyebrow">Eyebrow</string>
+    <string name="beard">Beard</string>
+</resources>
