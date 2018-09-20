@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         cb_hair.setOnClickListener(this);
         cb_beard.setOnClickListener(this);
         cb_moustache.setOnClickListener(this);
-        cb_eyebrow.setOnClickListener(this);
+        cb_eyebrow.setOnClickListener(this); 
     }
 
     @Override
